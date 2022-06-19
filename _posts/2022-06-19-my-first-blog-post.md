@@ -1,1 +1,5 @@
-my page build
+
+---
+title: "YOUR-TITLE"
+date: YYYY-MM-DD
+---
